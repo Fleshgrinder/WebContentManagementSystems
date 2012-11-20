@@ -1033,6 +1033,5 @@ return array(
 'tx_form_view_wizard_load' => 'C:/xampp/htdocs/wcms/typo3/typo3/sysext/form/Classes/View/Wizard/Load.php',
 'tx_form_view_wizard_save' => 'C:/xampp/htdocs/wcms/typo3/typo3/sysext/form/Classes/View/Wizard/Save.php',
 'tx_form_view_wizard_wizard' => 'C:/xampp/htdocs/wcms/typo3/typo3/sysext/form/Classes/View/Wizard/Wizard.php',
-'tx_dbal_querycache' => 'C:/xampp/htdocs/wcms/typo3/typo3/sysext/dbal/lib/class.tx_dbal_querycache.php',
 );
-#0             t3lib_autoloader136283    
+#0             t3lib_autoloader136178    
